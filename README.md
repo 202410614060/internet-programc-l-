@@ -1,1 +1,1 @@
-# internet-programcılığı-l deri odev deposudur
+# internet-programcılığı-l dersi odev deposudur
